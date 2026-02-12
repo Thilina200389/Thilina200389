@@ -1,30 +1,28 @@
-<div align="center">
-
-# Hi there, I'm Thilina Sandakelum! 👋
-### 🎓 Software Technology Undergraduate | 🛡️ Digital Rights Consultant | 💰 Treasurer
+# Thilina Sandakelum Wijesinghe 👋
+**Software Technology Undergraduate | Treasurer | Digital Rights Management**
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thilina200389&show_icons=true&theme=tokyonight" alt="Thilina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina200389&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 🎓 Education & Leadership
+* **B.Tech in Software Technology** - University of Vocational Technology (UoVT).
+* **Department Treasurer** - Responsible for financial management and leadership within the university department.
+
+### 🛠️ Technical Skills
+* **Programming Languages:** C#, Java, JavaScript (ES6+), PHP.
+* **Databases:** SQL Server, Oracle APEX (PL/SQL).
+* **Tools:** Visual Studio, Git & GitHub, FL Studio.
+
+### 💼 Professional Experience
+* **Founder at AcidRights:** Managing digital rights and media consulting.
+* **Digital Content Creator:** Managing high-reach social platforms with a focus on audio visualization and remixes.
+
+### 🚀 Key Projects
+* **Restaurant Management System:** A full-featured C# WinForms application with SQL database integration.
+* **Dynamic Working Calendar:** An interactive web application built with Vanilla JavaScript.
+* **Personal Portfolio:** A professional digital CV developed using HTML and CSS.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FL_Studio-FFAB40?style=for-the-badge&logo=fl-studio&logoColor=black" />
-</p>
-
-### 🚀 About Me
-* 🏛️ Currently pursuing **Bachelor of Technology in Software Technology** at **UoVT**.
-* 💳 Serving as the **Treasurer** for the university department.
-* 🎵 Founder of **Thilii Music** & **Thilina Sandakelum** YouTube channels.
-* ⚖️ Handling Digital Rights through **AcidRights**.
-
-</div>
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/thilina-sandakelum](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe-187514214/)
+* **GitHub:** [github.com/Thilina200389](https://github.com/Thilina200389)
