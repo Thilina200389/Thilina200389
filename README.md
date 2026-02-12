@@ -1,4 +1,4 @@
-# Thilina Sandakelum Wijesinghe
+# Hello I'm Thilina Sandakelum Wijesinghe
 **Software Technology Undergraduate**
 
 ---
