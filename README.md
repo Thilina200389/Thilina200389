@@ -4,8 +4,7 @@
 ---
 
 ### Education & Leadership
-* **B.Tech in Software Technology** - University of Vocational Technology (UoVT).
-* **Department Treasurer** - Responsible for financial management and leadership within the university department.
+* **B.Tech in Software Technology (UG)** - University of Vocational Technology (UoVT)
 
 ### Technical Skills
 * **Programming Languages:** C#, Java, JavaScript, PHP.
