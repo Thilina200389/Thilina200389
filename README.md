@@ -1,4 +1,4 @@
-# Hi there, I'm Thilina! 👋
+# Hi there, I'm Thilina Sandakelum Wijesinghe!
 
 ### GitHub Stats
 ![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thilina200389&show_icons=true&theme=radical)
