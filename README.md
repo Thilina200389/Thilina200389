@@ -12,8 +12,8 @@
 * **Tools:** Visual Studio, Git & GitHub, FL Studio.
 
 ### Professional Experience
-* **Founder at AcidRights:** Managing digital rights and media consulting.
 * **Digital Content Creator:** Managing high-reach social platforms with a focus on audio visualization and remixes.
+* **Founder at AcidRights:** Managing digital rights and media consulting.
 
 ### Key Projects
 * **Restaurant Management System:** A full-featured C# WinForms application with SQL database integration.
