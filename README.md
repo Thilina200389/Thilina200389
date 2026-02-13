@@ -16,9 +16,10 @@
 * **Founder at AcidRights:** Managing digital rights and media consulting.
 
 ### Key Projects
-* **Restaurant Management System:** A full-featured C# WinForms application with SQL database integration.
-* **Dynamic Working Calendar:** An interactive web application built with Vanilla JavaScript.
 * **Personal Portfolio:** A professional digital CV developed using HTML and CSS.
+* **Dynamic Working Calendar:** An interactive web application built with Vanilla JavaScript.
+* * **Restaurant Management System:** A full-featured C# WinForms application with SQL database integration.
+* * **Student Management System:** A comprehensive desktop application for school administration, featuring attendance tracking and enrollment management, built with C# and SQL Server.
 
 ---
 
