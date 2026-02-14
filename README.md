@@ -21,6 +21,7 @@
 * **Restaurant Management System:** A full-featured C# WinForms application with SQL database integration.
 * **Student Management System:** A comprehensive desktop application for school administration, featuring attendance tracking and enrollment management, built with C# and SQL Server.
 * **Bus Booking System:** A full-stack solution integrating Oracle APEX RESTful APIs with a PHP frontend, featuring PL/SQL triggers for complex business rule validation.
+* * **Theater Management System:** A full-featured cinema operations platform built with **PHP MVC architecture**. It integrates with **Oracle APEX** via **RESTful APIs** to manage bookings, schedules, and revenue.
 
 ---
 
