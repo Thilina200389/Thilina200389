@@ -22,6 +22,7 @@
 * **Student Management System:** A comprehensive desktop application for school administration, featuring attendance tracking and enrollment management, built with C# and SQL Server.
 * **Bus Booking System:** A full-stack solution integrating Oracle APEX RESTful APIs with a PHP frontend, featuring PL/SQL triggers for complex business rule validation.
 *  **Theater Management System:** A full-featured cinema operations platform built with **PHP MVC architecture**. It integrates with **Oracle APEX** via **RESTful APIs** to manage bookings, schedules, and revenue.
+*  **CTMS PRO V3:** A real-time Cricket Tournament Management System featuring an AJAX-powered live scoreboard, Smart DLS logic for rain interruptions, and JSON-based API integration.
 
 ---
 
