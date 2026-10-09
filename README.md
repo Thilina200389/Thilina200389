@@ -1,31 +1,65 @@
-# Hello I'm Thilina Sandakelum Wijesinghe
-**Software Technology Undergraduate**
+# Hi, I'm Thilina Sandakelum 👋
 
----
+**Software Technology Undergraduate | Aspiring Software Developer**
 
-### Education & Leadership
-* **B.Tech in Software Technology (UG)** - University of Vocational Technology (UoVT)
+I'm a B.Tech Software Technology undergraduate at the University of Vocational Technology (UoVT), Sri Lanka.
 
-### Technical Skills
-* **Programming Languages:** C#, Java, JavaScript, PHP.
-* **Databases:** SQL Server, Oracle APEX (PL/SQL).
-* **Tools:** Visual Studio, Git & GitHub, FL Studio.
+I'm passionate about software development, web technologies, database systems, and building practical applications. I enjoy learning new technologies, solving problems, and combining technical skills with creativity.
 
-### Professional Experience
-* **Digital Content Creator:** Managing high-reach social platforms with a focus on audio visualization and remixes.
-* **Founder at AcidRights:** Managing digital rights and media consulting.
+Currently preparing for industrial training and exploring opportunities to gain more experience in software development.
 
-### Key Projects
-* **Personal Portfolio:** A professional digital CV developed using HTML and CSS.
-* **Dynamic Working Calendar:** An interactive web application built with Vanilla JavaScript.
-* **Restaurant Management System:** A full-featured C# WinForms application with SQL database integration.
-* **Student Management System:** A comprehensive desktop application for school administration, featuring attendance tracking and enrollment management, built with C# and SQL Server.
-* **Bus Booking System:** A full-stack solution integrating Oracle APEX RESTful APIs with a PHP frontend, featuring PL/SQL triggers for complex business rule validation.
-*  **Theater Management System:** A full-featured cinema operations platform built with **PHP MVC architecture**. It integrates with **Oracle APEX** via **RESTful APIs** to manage bookings, schedules, and revenue.
-*  **CTMS PRO V3:** A real-time Cricket Tournament Management System featuring an AJAX-powered live scoreboard, Smart DLS logic for rain interruptions, and JSON-based API integration.
+## 💻 Technical Skills
 
----
+**Programming:** C#, Java, JavaScript, PHP, SQL
 
-### Connect with Me
-* **LinkedIn:** [linkedin.com/in/thilina-sandakelum](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe/)
-* **GitHub:** [github.com/Thilina200389](https://github.com/Thilina200389)
+**Web Development:** HTML, CSS, WordPress, Joomla, REST APIs
+
+**Databases:** Microsoft SQL Server, Oracle Database, PL/SQL
+
+**Tools & Technologies:** Git, GitHub, Visual Studio, Oracle APEX, cPanel
+
+**Currently Exploring:** Android Development, Kotlin, Jetpack Compose, AWS Cloud Computing
+
+## 🚀 Projects
+
+### [YouTube Gemini AutoReply Bot](https://github.com/Thilina200389/YouTube-Gemini-AutoReply-Bot)
+An AI-powered YouTube comment automation project integrating the Gemini API, YouTube Data API, and Google Apps Script.
+
+### [Restaurant Management System](https://github.com/Thilina200389/Restaurant-Management-System-CSharp)
+A desktop application developed using C# Windows Forms and SQL database integration.
+
+### [Student Management System](https://github.com/Thilina200389/Student-Management-System-CSharp)
+A C# desktop application for managing student information and academic records with SQL Server.
+
+### [Dynamic Working Calendar](https://github.com/Thilina200389/Dynamic-Working-Calendar)
+An interactive calendar application built using HTML, CSS, and Vanilla JavaScript.
+
+### [Personal Portfolio](https://github.com/Thilina200389/My-CV)
+A personal portfolio website showcasing my education, technical skills, and projects.
+
+### Other Academic Projects
+- **Bus Booking System** – PHP, Oracle APEX, REST APIs, and PL/SQL
+- **Theater Management System** – PHP MVC, Oracle APEX, and REST APIs
+- **CTMS PRO V3** – Cricket tournament management with AJAX and JSON-based integrations
+
+## 💼 Experience
+
+**Technician Intern – Reliance Web Solutions (Pvt) Ltd**  
+*January – April 2025*
+
+Gained hands-on experience in Joomla and WordPress development, website deployment, server configuration, and troubleshooting.
+
+Contributed to Techlink.lk website development and Sahaya.lk community platform development, including location picker integration using Leaflet.js and OpenStreetMap.
+
+## 🎨 Beyond Software Development
+
+**Thilii Music** – A personal creative brand I have developed since 2021, focused on audio visualization, digital content creation, and music-related projects.
+
+**AcidRights** – A personal side project exploring digital rights management and copyright protection, which I plan to develop further.
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe/)
+- [GitHub](https://github.com/Thilina200389)
+
+*Always learning, building, and improving.*
